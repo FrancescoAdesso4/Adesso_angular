@@ -1,0 +1,24 @@
+{
+  "articoli":[
+  {
+    "id":1,
+    "titolo": "unicorno",
+    "url": "https://www.youtube.com/watch?v=nsN8eqJI7Fw",
+    "like": 89
+  },
+  {
+    "id":2,
+    "titolo": "Hogwarts Legacy",
+    "url": "https://www.youtube.com/watch?v=jw-isFg7XZA&t=115s",
+    "like": 5643
+  },
+  {
+    "id":3,
+    "titolo": "musica",
+    "url": "https://www.youtube.com/watch?v=vXYVfk7agqU",
+    "like": 5643
+  }
+
+  ]
+
+}
